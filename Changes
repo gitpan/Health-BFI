@@ -1,4 +1,7 @@
 Revision history for Health-BFI
 
+0.02    Wed Aug 10 12:35:11 2011
+        - Prepared the distribution using the Module::Signature v0.68.
+
 0.01    Sun May 08 02:20:11 2011
         - First version, released.
